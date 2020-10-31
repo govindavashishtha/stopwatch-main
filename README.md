@@ -11,6 +11,6 @@ $ cd stopwatch-main -OR- open folder using Android Studio
 https://drive.google.com/drive/folders/1k1cAeYviq9kgR-G1gfyAzC2p4mTb_iI6?usp=sharing
 
 ###### Screenshots
-![alt text](https://drive.google.com/file/d/1FfOjCw5IKieSYyfWCuVVWbkCwpQrlBXE/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1_dx_XdOlefUOwG_I-ngaWxGeee32VX8A/view?usp=sharing)
+https://drive.google.com/file/d/1FfOjCw5IKieSYyfWCuVVWbkCwpQrlBXE/view?usp=sharing
+https://drive.google.com/file/d/1_dx_XdOlefUOwG_I-ngaWxGeee32VX8A/view?usp=sharing
 
